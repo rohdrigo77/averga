@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmCargarSocix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmClub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModificarSocix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMostrarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmInformes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

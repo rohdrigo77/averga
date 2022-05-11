@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{8928CF3F-E84B-47C9-AAA4-6FAE48F6C4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmFabricaTroopers", "FrmFabricaTroopers\FrmFabricaTroopers.csproj", "{F6C87540-1115-4B5A-B1D0-B2E92219F2BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8928CF3F-E84B-47C9-AAA4-6FAE48F6C4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8928CF3F-E84B-47C9-AAA4-6FAE48F6C4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8928CF3F-E84B-47C9-AAA4-6FAE48F6C4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8928CF3F-E84B-47C9-AAA4-6FAE48F6C4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C87540-1115-4B5A-B1D0-B2E92219F2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C87540-1115-4B5A-B1D0-B2E92219F2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C87540-1115-4B5A-B1D0-B2E92219F2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C87540-1115-4B5A-B1D0-B2E92219F2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7C39A9-F383-4FB4-A47E-517D2472F6B4}
+	EndGlobalSection
+EndGlobal
